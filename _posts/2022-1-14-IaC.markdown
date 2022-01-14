@@ -4,13 +4,25 @@ title:  "Welcome to Cloudlee IaC"
 date:   2022-01-14 2:17:38 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## What is IaC?
 
-Jekyll requires blog post files to be named according to the following format:
+Infrastructure as code (IaC) means to manage your IT infrastructure using configuration files.
+With IaC, your infrastructure’s configuration takes the form of a code file. Since it’s just text, it’s easy for you to edit, copy, and distribute it. You can put it under source control, like any other source code file. Cloud computing allows you to set up your infrastructure needs quickly thus solving severe problems such as high availability and scalability.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## How it works
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+IaC tools can vary as far as the specifics of how they work, but we can generally divide them into two main types:
+
+- The imperative approach “gives orders.” It defines a sequence of commands or instructions so the infrastructure can reach the final result.
+- A declarative approach, “declares” the desired outcome. the declarative approach shows what the final result looks like Instead of explicitly outlining the sequence of steps the infrastructure needs to reach the final result.
+
+## What is the IaC Utility Server?
+
+The Utility Server contains all the required tools for handling a cloud computing environment. It controls all your infrastructure as code. 
+
+- Provisioning Tools
+- Configuration Management Tools
+- Version Source Control
 
 Jekyll also offers powerful support for code snippets:
 
