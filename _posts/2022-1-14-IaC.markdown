@@ -25,8 +25,6 @@ The Utility Server contains all the required tools for handling a cloud computin
 - Version Source Control
 
 
-## What is the IaC Utility Server?
 
-The primary purpose of this lab is to automate the process of creating an IaC utility server using Ansible, Jenkins, and by pulling code Git from GitHub. A Cloud Engineer needs to understand the concept of the IaC automation process.
 
 
