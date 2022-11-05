@@ -1,5 +1,5 @@
 # Title: Create Github blog on your repository
-# Step1. Create Repository in git hub
+# Step1. Create Repository in Github with the following format
 # username.github.io
 # Reference url: https://zeddios.tistory.com/1222
 # Executhe Jekyll on the localhost
