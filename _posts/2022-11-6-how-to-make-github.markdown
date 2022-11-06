@@ -12,7 +12,7 @@ Jekyll requires blog post files to be named according to the following format:
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Reference URL: [korean site]
+Reference URL: [How to create dial2vincent.Github.io blog][korean-site]
 
 {% highlight ruby %}
 git add .
@@ -26,7 +26,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 bundle exec jekyll serve
 {% endhighlight %}
 
-[korean site]: https://zeddios.tistory.com/1223
+[korean-site]: https://zeddios.tistory.com/1223
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
