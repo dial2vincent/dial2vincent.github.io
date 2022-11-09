@@ -6,6 +6,6 @@
 2. yourusername.github.io
 - Executhe Jekyll on yourlocalhost
 `bundle exec jekyll serve`
-- Browser [localhost:](http://127.0.0.1:4000)
+- Browser http://127.0.0.1:4000
 
 
