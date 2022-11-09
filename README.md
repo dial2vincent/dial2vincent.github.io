@@ -7,5 +7,8 @@
 - Executhe Jekyll on yourlocalhost
 `bundle exec jekyll serve`
 - Browser http://127.0.0.1:4000
-
+---
+- Post your blog
+> cd _posts
+> copy previouse blog as a template and create your own blog
 
