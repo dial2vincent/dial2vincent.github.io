@@ -17,5 +17,5 @@
 
 **format:** year-month-date-namehere.markdown
 
-2022-1-14-yourpostnamehere.markdown
+Example: 2022-1-14-yourpostnamehere.markdown
 
