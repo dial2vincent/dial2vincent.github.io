@@ -14,6 +14,8 @@
 ## Post your blog
 `cd _posts`
 > copy previouse blog as a template and create your own blog
+
 **format:** year-month-date-namehere.markdown
+
 2022-1-14-yourpostnamehere.markdown
 
