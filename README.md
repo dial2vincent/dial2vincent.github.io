@@ -1,5 +1,6 @@
 # Title: Create Github blog on your repository
 - [Reference URL:](https://zeddios.tistory.com/1222)
+- Location: 175
 ---
 - Steps:  
 1. Create Repository in Github with the following format
