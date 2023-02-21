@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # Title: Create Github blog on your repository
 - [Reference URL:](https://zeddios.tistory.com/1222)
 - Location: 175
-=======
+
 
 # [Welcome to cloudlee Github blog!](https://dial2vincent.github.io/)
->>>>>>> 5cb47635a7a7635e97e09c9e94996a09a3385b40
+
 ---
 ## Title: Create Github blog on your repository
 - [Reference URL to create Github blog:](https://zeddios.tistory.com/1222)
