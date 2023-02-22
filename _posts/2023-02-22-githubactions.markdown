@@ -5,7 +5,7 @@ date:   2022-02-22
 categories: jekyll update
 ---
 # What is GitHub Actions?
-- Events, Workflows, Jobs, Actions, Runners
+- 5 major steps:  Events, Workflows, Jobs, Actions, Runners
 ## Events
 When:
 - Merge to main branch
